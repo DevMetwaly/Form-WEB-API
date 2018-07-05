@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to bottom right, rgb(54, 124, 255), rgb(137, 177, 252));
+    min-height: 700px;
+}
+
+.page-header-modified{
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    border-color: #ddd;
+}
+
+
