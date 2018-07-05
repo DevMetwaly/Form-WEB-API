@@ -1,6 +1,7 @@
 body{
     background: linear-gradient(to bottom right, rgb(54, 124, 255), rgb(137, 177, 252));
     min-height: 700px;
+    
 }
 
 .page-header-modified{
@@ -10,4 +11,19 @@ body{
     border-color: #ddd;
 }
 
+footer{
+    position: fixed;
+    bottom: 0px;
+    width:100%;
+    min-height: 20px;
+    
+    background-color: #ddd!important;    
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;    
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+
+}
 
